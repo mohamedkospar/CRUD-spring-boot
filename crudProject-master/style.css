@@ -1,0 +1,114 @@
+.crud {
+    font-size: 25x;
+    color: brown;
+    text-align: left;
+    padding-left: 200px;
+    font-weight: bold;
+    
+    
+  }
+  
+ 
+  .submit {
+    background-color: #04AA6D;
+
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    border-radius: 25px;
+    
+  }
+  
+
+  input{
+    background-color: whitesmoke;
+
+    color: black;
+    border-color: #04AA6D;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 17px;
+    
+
+    
+    border-radius: 20px;
+
+
+  }
+
+  .quot {
+
+    font-size: 25x;
+    color: brown;
+    text-align: left;
+    padding-left: 280px;
+    font-weight: bold;
+    
+  }
+  .quotes{
+    font-size: 25x;
+    color: green;
+    font-weight: bold;
+  }
+  .update .update-h2{
+    font-size: 25x;
+    color: brown;
+    text-align: left;
+    padding-left: 200px;
+    font-weight: bold;
+  }
+
+  #update-button{
+    background-color: #04AA6D;
+
+    color: white;
+    padding: 20px;
+
+text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    border-radius: 25px;
+    
+    
+  }
+
+  h2 {
+
+    font-size: 25x;
+    color: brown;
+    text-align: left;
+    padding-left: 170px;
+    font-weight: bold;
+    
+  }
+  .delete-one
+  {font-size: 20x;
+    color:black;
+    text-align: left;
+   
+    font-weight: bold;
+
+  }
+
+  #delete-button{
+
+    background-color: #04AA6D;
+
+    color: white;
+    padding: 20px;
+
+
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    border-radius: 25px;
+  }
